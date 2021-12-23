@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-<div style="font-family: times, serif; font-size: 24px;">Behera is my daily routine</div>
+<div style="font-family: serif; font-size: 24px; text-align: center;">Behera is my daily routine</div>
 <br>
 <br>
 <br>
