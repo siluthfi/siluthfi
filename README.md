@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<h2 align="center">Behera is my daily routine</h2>
+<br>
+<br>
+<br>
+<br>
+<div style="font-family: times, serif; font-size: 24px;">Behera is my daily routine</div>
+<br>
+<br>
+<br>
 <br>
