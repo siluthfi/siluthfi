@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-<p style="font-family: serif; font-size: 24px; text-align: center;" align="center">Behera is my daily routine</p>
+<p style="font-family: serif; font-size: 24px; text-align: center;" align="center">Rinku is mine</p>
 <br>
 <br>
 <br>
