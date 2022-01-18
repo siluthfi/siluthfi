@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-<h1 style="font-family: serif; font-size: 24px; text-align: center;" align="center">Rinku is mine</h1>
+<p style="font-family: serif; font-size: 34px; text-align: center; font-weight: bold;" align="center">Rinku is mine</p>
 <br>
 <br>
 <br>
