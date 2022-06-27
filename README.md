@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-<p style="font-family: serif; font-size: 34px; text-align: center; font-weight: bold;" align="center">Rinku is mine</p>
+<p style="font-family: serif; font-size: 34px; text-align: center; font-weight: bold;" align="center">aimyon simp</p>
 <br>
 <br>
 <br>
